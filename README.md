@@ -9,5 +9,3 @@
 - **ЛАБ 2 (алхимия)**
 - **ЛАБ 3 (структуры)**
 - **ПЕТ ПРОЕКТ [PASSWORD MANAGER](https://github.com/KORVONTEX/password-manager)**
-- **ПЕТ ПРОЕКТ [CLIPBOARD MANAGER](https://github.com/KORVONTEX/clipboard-manager)**
-  
